@@ -8,11 +8,11 @@
 
 - 💞️ I'd like to collaborate with you on creating a website that will assist millions of people worldwide.
 
-- 👨‍💻 All of my projects are available at [https://aman1080phd.github.io/](https://aman1080phd.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aman1080phd.github.io/)
 
 - 📫 How to reach me **aman1080phd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
