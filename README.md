@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring Java backend developer</h3>
 <img align="right" alt=Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 👀 I want to have a fulfilling and happy life. And learning and doing coding makes me happy.
-
 - 🌱 I’m currently learning **Core Java, Spring boot, Hibernate.**
 
 - 💞️ I'd like to collaborate with you on creating a website that will assist millions of people worldwide.
