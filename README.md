@@ -2,6 +2,8 @@
 <h3 align="center">A full-stack web developer with a desire to become the Mozart of programming.</h3>
 <img align="right" alt=Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1080phd&label=Profile%20views&color=0e75b6&style=flat" alt="aman1080phd" /> </p>
+                                                                                                
 - 🌱 I’m currently learning **Core Java, Spring boot, Hibernate.**
 
 - 💞️ I'd like to collaborate with you on creating a website 
