@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aman1080phd@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ta3_vo02L9tbe-jFseTUXL5jhh_MQaMA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LU25SBI0Zy3ktiOHK18YV4MZU2sUiabV/view?usp=share_link)
                   
                                                                                                 
 - LinkedIn : [aman1080phd](https://www.linkedin.com/in/aman1080phd/) 
