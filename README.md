@@ -2,7 +2,6 @@
 <h3 align="center">A full-stack web developer with a desire to become the Mozart of programming.</h3>
 <img align="right" alt=Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1080phd&label=Profile%20views&color=0e75b6&style=flat" alt="aman1080phd" /> </p>
                                                                                                 
 - 🌱 I’m currently learning **Core Java, Spring boot, Hibernate.**
 
@@ -15,9 +14,9 @@
 - 📫 How to reach me **aman1080phd@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LU25SBI0Zy3ktiOHK18YV4MZU2sUiabV/view?usp=share_link)
-                  
-                                                                                                
-- LinkedIn : [aman1080phd](https://www.linkedin.com/in/aman1080phd/) 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1080phd&label=Profile%20views&color=0e75b6&style=flat" alt="aman1080phd" /> </p>
+                                                                                                                                           
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
