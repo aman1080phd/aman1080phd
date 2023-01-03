@@ -31,18 +31,12 @@
 
 
 
+<h3 align="left">📊 GitHub Stats:</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=aman1080phd&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aman1080phd&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman1080phd&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ### My GitHub Stats: -->
-
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=aman1080phd&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
-
-<p>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman1080phd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aman1080phd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
